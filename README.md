@@ -1,4 +1,3 @@
-# reactLearn
 
 # git 레포지토리 연결 
 - git init
